@@ -14,7 +14,7 @@ Click the “Install” button.
 ## Manual Installation
 The manual installation method involves downloading the plugin and uploading it to your webserver via your favourite FTP application
 
-# ependancies
+# Dependancies
 
 WordPress 5.0.x
 WooCommerce 3.5.1 or greater
