@@ -1,5 +1,5 @@
-# fidelity-thermometer
-Fidelity Program Thermometer for Wordpress(Requires Woocommerce) 
+# loyalty-thermometer
+Loyalty Program Thermometer for Wordpress(Requires Woocommerce) 
 
 by Alice Media 2022
 
